@@ -32,7 +32,7 @@ public class CallableExample {
 			}
 		}
 		executor.shutdown();
-                System.out.println("Executor Shutdown")
+                System.out.println("Executor Shutdown Properly")
 	}
 }
 
